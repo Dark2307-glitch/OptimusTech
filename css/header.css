@@ -1,0 +1,59 @@
+.cabecalho_topo{
+    display: flex;
+    margin: 1em 0 0 2em;
+}
+
+.cabecalho{
+    background-color: var(--cor-branca-fundo);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* segunda aula */
+    position: relative;
+}
+
+.lista_menu{
+    display: flex;
+    padding: 2em;
+}
+
+.lista_menu{
+    margin: 0 0 0 2em;
+}
+
+.lista_menu_link{
+    padding: 1em;
+    text-decoration: none;
+    text-align: center;
+    color:var(--cor-cinza);
+    font-size: 16px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container_link{
+    color:black;
+    padding-right: 5em;
+    margin-right: 2em;
+    text-decoration: none;
+}
+
+
+.entrar{
+    color:var(--cor-cinza);
+}
+
+.cadastro{
+    color:var(--cor-branca);
+    background-color: var(--cor-fundo-botao);
+    padding: 0.8em;
+    border-radius: 10px;
+}
+
+.cadastro:hover{
+    color:black;
+    background-color:rgb(198, 88, 88) ;
+}

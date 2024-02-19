@@ -1,0 +1,14 @@
+@import url(/css/header.css);
+@import url(/css/main.css);
+@import url(/css/vagas.css);
+@import url(/css/lista.css);
+@import url(/css/colaboradores.css);
+@import url(/css/contato.css);
+
+:root{
+    --cor-cinza: grey;
+    --cor-branca:white;
+    --cor-fundo-botao:rgba(142, 36, 36, 1);
+    --cor-vermelha:rgba(142, 36, 36, 1);
+}
+

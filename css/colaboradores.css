@@ -1,0 +1,36 @@
+.colaboradores{
+    background-color: rgba(195, 25, 25, 0.03);
+    margin-top: 6em;
+    padding: 4em;
+    padding-left: 12em;
+    padding-right: 12em;
+}
+
+.textinho_colaboradores{
+    color: var(--cor-vermelha);
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.titulo_colaboradores{
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+.titulo_colaboradores_imagem{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.texto_colaboradores{
+    font-size: 14px;
+    font-weight: 400;
+    color: grey;
+    margin-top: 0.5em;
+}
+
+.colaboradores_imagem{
+    margin-bottom: 1em;
+}

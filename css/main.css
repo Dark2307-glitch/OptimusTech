@@ -1,0 +1,59 @@
+.sobre_nos{
+    text-align: center;
+    padding: 2em;
+    margin: 4em;
+}
+
+.titulo_sobre_nos{
+    padding: 4px 0px 4px 0px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--cor-vermelha);
+    margin: 1em;
+}
+
+.sub_titulo_sobre_nos{
+    padding: 0px 32px 0px 32px;
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1em;
+}
+
+.texto_sobre_nos{
+    padding: 12px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-cinza);
+    margin-left: 19em;
+    margin-right: 19em;
+    line-height: 1.4em;
+}
+
+.numero_principal{
+   display: flex;
+   margin-top: 2em;
+}
+
+.numeros{
+    margin-left: 5rem;
+}
+
+.titulo_numeros{
+    font-size: 60px;
+    font-weight: 600;
+    color:var(--cor-vermelha);
+}
+
+.subtitulo_numeros{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 0.6em;
+}
+
+.texto_numero{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 0.5em ;
+    text-align: left;
+    margin-left: 1.5em;
+}

@@ -1,0 +1,48 @@
+.lista{
+    margin: 2em 8em 0 8em;
+    padding: 0 8em;
+}
+
+.lista_titulo{
+    text-align: left;
+    margin-bottom: 1em;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.bloco_um{
+    border: 1px solid rgba(128, 128, 128, 0.286);
+    padding: 0.1em 0 1em 0;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.bloco_dois{
+    border: 1px solid rgba(128, 128, 128, 0.286);
+    margin-top: 1em;
+    padding: 0.1em 0 1em 0;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.lista_subtitulo{
+    padding: 1em;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.lista_texto_divi{
+    display: flex;
+    font-size: 16px;
+    font-weight: 500;
+    color:grey;
+}
+
+.lista_texto{
+    padding-left:1em ;
+}
+
+.desenvolvimento{
+    padding-top:1em;
+}
